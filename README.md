@@ -1,10 +1,10 @@
 # California Housing Price Prediction API
 
-This API is designed to solve a predictive modeling task that estimates Housing Values in California (19990) based on various housing and demographic features. It leverages a pre-trained XGBoost model 
+This API is designed to solve a predictive modeling task that estimates Housing Values in California (1990) based on various housing and demographic features. It leverages a pre-trained XGBoost model 
 optimized to predict the Median House Value in different California census tracts. The model was trained on historical housing data and considers features like house age, average number of rooms,
 population, and geographic information to make its predictions.
 
-This API is built using Python 3.12 and utilizes Flask for handling HTTP requests, with the housing price prediction model implemented using XGBoost.
+This API is built using Python 3.12 and utilizes Flask for handling HTTP requests, with the Housing Median Values prediction model implemented using XGBoost.
 
 ## Installation and Setup
 
